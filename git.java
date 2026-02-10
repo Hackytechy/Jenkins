@@ -1,4 +1,4 @@
-public class Calculator {
+public class git {
     public static void main(String[] args) {
         int firstNum = 10;
         int secondNum = 20;
