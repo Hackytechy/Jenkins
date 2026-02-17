@@ -10,7 +10,7 @@
 
 public class git {
     public static void main(String[] args) {
-        int firstNum = 50;
+        int firstNum = 60;
         int secondNum = 100;
         int sum = firstNum + secondNum;
         System.out.println("The total is: " + sum);
